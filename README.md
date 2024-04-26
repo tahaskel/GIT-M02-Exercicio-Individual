@@ -1,4 +1,4 @@
 # GIT-M02-Exercicio-Individual
-Aqui serão mostradas
-as modificações
-nos ramos A e B
+Repositório do exercício GIT-M01 - Exercício Individual
+# Modificações
+Aqui serão mostradas modificações nos ramos A e B
