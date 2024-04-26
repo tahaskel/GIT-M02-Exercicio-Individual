@@ -1,5 +1,5 @@
 # GIT-M02-Exercicio-Individual
-# Alteração Offline
+# Alteração Online
 Repositório do exercício GIT-M02 - Exercício Individual
 # Alteração Offline
 # Modificações
